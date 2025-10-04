@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1abf49cfffd8b74f8131ac7e6d2f8ff
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Materials/q_2.1.mat
+  uploadId: 680683

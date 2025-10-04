@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9afb34c793a12b54ca50b70718587b8e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_board.prefab
+  uploadId: 680683

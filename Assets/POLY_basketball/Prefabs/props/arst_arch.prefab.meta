@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ebe8a1343e783aa4fb5117a647390a6d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_arch.prefab
+  uploadId: 680683

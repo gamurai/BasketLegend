@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d166cf7d99bc0648bfd8887653c1464
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_robot_polisher.prefab
+  uploadId: 680683

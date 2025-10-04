@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30172b733e145cc4187959cb7a0acfa9
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_energy_drink_2.prefab
+  uploadId: 680683

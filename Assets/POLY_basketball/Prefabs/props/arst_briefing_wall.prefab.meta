@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e649575734fdb424fb6a4f492bb96ad2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_briefing_wall.prefab
+  uploadId: 680683

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fa80d604b0bcb694eaf13a6e88db25e4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/stadium/arst_dome.prefab
+  uploadId: 680683

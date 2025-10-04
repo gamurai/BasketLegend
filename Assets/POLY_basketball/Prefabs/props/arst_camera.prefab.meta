@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 65663fee5b7e3ef4cafa7d8be8cb7297
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_camera.prefab
+  uploadId: 680683

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a60278b02a8913d498ba98cd875e9a84
+timeCreated: 1532654078
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Materials/floor_color.mat
+  uploadId: 680683

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d5f4813bc8f5ac84e955d1bbb44ad696
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_lamp.prefab
+  uploadId: 680683

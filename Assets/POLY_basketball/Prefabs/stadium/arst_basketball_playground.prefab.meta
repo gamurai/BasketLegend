@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 248c7f694f530cd48810d70f5ef8af81
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/stadium/arst_basketball_playground.prefab
+  uploadId: 680683

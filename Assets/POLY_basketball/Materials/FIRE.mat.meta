@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d26c31b1a101db8469076c21478a4585
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Materials/FIRE.mat
+  uploadId: 680683

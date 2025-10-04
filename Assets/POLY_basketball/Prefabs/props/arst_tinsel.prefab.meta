@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 887e5da90ec88c941989b44cae5ef510
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_tinsel.prefab
+  uploadId: 680683

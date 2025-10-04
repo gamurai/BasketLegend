@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f1471973f52b8146bfcdc41cd9da3a5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_table.prefab
+  uploadId: 680683

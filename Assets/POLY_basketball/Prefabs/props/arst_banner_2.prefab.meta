@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5c9f8daba6dab0948bf6f2ff54aabde5
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_banner_2.prefab
+  uploadId: 680683

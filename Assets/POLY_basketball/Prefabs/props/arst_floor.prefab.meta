@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2236055960473ae41943f1875a9349e1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_floor.prefab
+  uploadId: 680683

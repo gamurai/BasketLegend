@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 47328d6aa472718468e97fe9cf8d7603
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_paralon_stick.prefab
+  uploadId: 680683

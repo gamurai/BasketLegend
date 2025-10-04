@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 129cbced003ca0f48b1404ca3f6cd437
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_paper_2.prefab
+  uploadId: 680683

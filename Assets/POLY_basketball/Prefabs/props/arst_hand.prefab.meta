@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: bacb5f6c08d0e984abdbef7ccbc46d05
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_hand.prefab
+  uploadId: 680683

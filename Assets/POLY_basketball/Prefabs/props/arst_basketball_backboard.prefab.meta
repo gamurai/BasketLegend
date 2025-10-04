@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a19941b7caa93a449ba7f66a3a1ce8dd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_basketball_backboard.prefab
+  uploadId: 680683

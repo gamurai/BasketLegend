@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: ffe4e0383526fe74b9cb1f0c4b968024
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_energy_box.prefab
+  uploadId: 680683

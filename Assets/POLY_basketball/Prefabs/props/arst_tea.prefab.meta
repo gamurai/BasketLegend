@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e3a7c80a0a8462a41b2e75f6567ffdd2
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_tea.prefab
+  uploadId: 680683

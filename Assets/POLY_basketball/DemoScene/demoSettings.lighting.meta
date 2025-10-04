@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2718b5acb26716949b0461f091f2ddd5
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 4890085278179872738
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/DemoScene/demoSettings.lighting
+  uploadId: 680683

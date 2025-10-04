@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2c1546ec1e9a4444ca9eed79a45eed84
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 144067
+  packageName: POLY basketball
+  packageVersion: 2.0.5
+  assetPath: Assets/POLY_basketball/Prefabs/props/arst_water_barrel.prefab
+  uploadId: 680683
