@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 463b08f54d833b84b80d34a21ef8e8cf, type: 3}
+  m_Name: SeasonData
+  m_EditorClassIdentifier: Assembly-CSharp::BasketLegend.Data.SeasonData
+  seasonNumber: 1
+  seasonName: Test Season
+  seasonIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  seasonBackground: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
+  seasonThemeColor: {r: 0.8490566, g: 0.20425417, b: 0.20425417, a: 1}
+  levelsPerSeason: 20
+  isUnlocked: 1
+  seasonCompletionReward: 0
+  seasonRewardIcon: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  seasonDescription: This is a season for testing
+  seasonLevels:
+  - {fileID: 11400000, guid: 10ebeb1fd14673b41aed0ee3a0bb1169, type: 2}
+  - {fileID: 11400000, guid: c20d1f9e6bd5af5478f3f93e87cd555a, type: 2}
+  - {fileID: 11400000, guid: 0acbb40b2fbc243438c3cbff1899cc7c, type: 2}
+  - {fileID: 11400000, guid: 2a97b71bd637fe044a1dc18e5b3dcbe5, type: 2}
+  - {fileID: 11400000, guid: f46d8cf83250c11479d3f037e7d73947, type: 2}
+  - {fileID: 11400000, guid: b5ee6bc72260a1c48a5766c1330648e2, type: 2}
+  - {fileID: 11400000, guid: 701b4ddf1b9ee044493cbb1c117e33c3, type: 2}
+  - {fileID: 11400000, guid: 395748beddcbfee4e9d8a70a402b16d8, type: 2}
+  - {fileID: 11400000, guid: a9a0adf052056a944a50d08dbf93e36e, type: 2}
+  - {fileID: 11400000, guid: 72fb7b5a956cdaa4db9c0478ddb43005, type: 2}
+  - {fileID: 11400000, guid: edfd26c3930fa684bae8166145010cda, type: 2}
+  - {fileID: 11400000, guid: 8e96a8684ad6b5641a3206eaa54fee93, type: 2}
+  - {fileID: 11400000, guid: 79b928c4a6ffc044ea7cef7b55021817, type: 2}
+  - {fileID: 11400000, guid: 764acf978a438c64392a99a1e96c8907, type: 2}
+  - {fileID: 11400000, guid: 90647ce969396d44786a50788055c49e, type: 2}
+  - {fileID: 11400000, guid: 1c27e368128e28549b036f6295d1c564, type: 2}
+  - {fileID: 11400000, guid: 49086306450c8094daa316d9178c1404, type: 2}
+  - {fileID: 11400000, guid: ff9250c5aa3eaef4baeb8a7609ce97a5, type: 2}
+  - {fileID: 11400000, guid: 20ff354c2154b2b4bbf69f915bb85658, type: 2}
+  - {fileID: 11400000, guid: d2ec5be3e7141154ea1339cf37a4fe81, type: 2}
