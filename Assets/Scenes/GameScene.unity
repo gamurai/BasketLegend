@@ -591,7 +591,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 84614426}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1434970846}
+        m_TargetAssemblyTypeName: BasketLegend.Core.MainGameController, Assembly-CSharp
+        m_MethodName: PlayButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &84614426
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3141,7 +3153,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 500993600}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1434970846}
+        m_TargetAssemblyTypeName: BasketLegend.Core.MainGameController, Assembly-CSharp
+        m_MethodName: SettingsButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &500993600
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5611,7 +5635,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1144802276}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1434970846}
+        m_TargetAssemblyTypeName: BasketLegend.Core.MainGameController, Assembly-CSharp
+        m_MethodName: ContinueButtonClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1144802276
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6709,7 +6745,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1323907423}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1434970846}
+        m_TargetAssemblyTypeName: BasketLegend.Core.MainGameController, Assembly-CSharp
+        m_MethodName: BackToMainMenuClicked
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1323907423
 MonoBehaviour:
   m_ObjectHideFlags: 0
